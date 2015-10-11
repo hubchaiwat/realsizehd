@@ -1,0 +1,8 @@
+C:\Users\Home\Desktop\RealSizeHD\RealSizeHD\bin\Debug\RealSizeHD.exe
+C:\Users\Home\Desktop\RealSizeHD\RealSizeHD\bin\Debug\RealSizeHD.pdb
+C:\Users\Home\Desktop\RealSizeHD\RealSizeHD\obj\x86\Debug\RealSizeHD.Form1.resources
+C:\Users\Home\Desktop\RealSizeHD\RealSizeHD\obj\x86\Debug\RealSizeHD.Properties.Resources.resources
+C:\Users\Home\Desktop\RealSizeHD\RealSizeHD\obj\x86\Debug\RealSizeHD.csproj.GenerateResource.Cache
+C:\Users\Home\Desktop\RealSizeHD\RealSizeHD\obj\x86\Debug\RealSizeHD.exe
+C:\Users\Home\Desktop\RealSizeHD\RealSizeHD\obj\x86\Debug\RealSizeHD.pdb
+C:\Users\Home\Desktop\RealSizeHD\RealSizeHD\obj\x86\Debug\RealSizeHD.csprojResolveAssemblyReference.cache
